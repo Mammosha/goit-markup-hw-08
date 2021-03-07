@@ -750,9 +750,7 @@ img {
 }
 
 /* ========== TEAM ========== */
-.team .section {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.team.section {
   background-color: var(--grey-background-color);
 }
 

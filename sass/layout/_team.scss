@@ -1,7 +1,5 @@
 .team {
-  & .section {
-    padding-top: 60px;
-    padding-bottom: 60px;
+  &.section {
     background-color: var(--grey-background-color);
   }
   & .team-descrip {
