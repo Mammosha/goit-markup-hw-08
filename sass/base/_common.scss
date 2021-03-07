@@ -1,0 +1,38 @@
+img {
+  display: block;
+  width: 100%;
+  // height: auto;
+}
+.site-nav,
+.features-list,
+.services-list,
+.team-list,
+.portfolio-nav,
+.gallery,
+.social-list,
+.clients-list,
+.footer-list,
+.list {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+.logo,
+.link current,
+.link,
+.foto-link {
+  text-decoration: none;
+  font-style: normal;
+}
+.body {
+  background-color: var(--main-background-color);
+  color: var(--main-color);
+  font-family: var(--text-font);
+  font-weight: 400;
+  font-size: var(--main-font-size);
+  letter-spacing: var(--main-letter-spacing);
+}
+.title {
+  padding: 0px;
+  margin: 0px;
+}
